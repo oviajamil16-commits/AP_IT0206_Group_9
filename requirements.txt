@@ -1,0 +1,10 @@
+pandas>=2.0            # Reports: headcount/payroll/attendance aggregation
+matplotlib>=3.8         # Reports: bar charts saved to data/exports/
+requests>=2.31          # Reports: public holiday lookup (Nager.Date API)
+
+# Optional:
+# pytest>=8.0           # unit testing (tests/) — see run_tests_shim.py if
+# pytest-cov>=5.0       # unable to install on your network
+# bcrypt>=4.1           # drop-in replacement for the stdlib hashing in
+#                       # services/auth_service.py, if desired
+# python-dotenv>=1.0    # environment-based configuration

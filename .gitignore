@@ -1,0 +1,22 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Local database and logs are generated at runtime — don't commit them
+database/app.db
+logs/*.log
+data/exports/*.png
+data/exports/*.csv
+data/exports/*.json
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Editor/OS junk
+.vscode/
+.idea/
+.DS_Store
