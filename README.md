@@ -31,7 +31,7 @@ IT0206 Advanced Computer Programming 2 — Team Project (Assessment 2)
 
 ```bash
 cd src
-python main.py
+python gui_main.py
 ```
 
 First run prints a generated admin password — save it, you'll need it to log in.
