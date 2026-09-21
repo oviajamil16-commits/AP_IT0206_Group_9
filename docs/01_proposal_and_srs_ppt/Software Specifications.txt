@@ -1,0 +1,80 @@
+Document 2: 
+- Software Requirements Specification (SRS)
+- This document describes the complete system requirements.
+
+1. Introduction
+- Purpose
+- Purpose of the software.
+- Scope
+- Purpose of the document.
+- Definitions
+- Example (CRUD, GUI, MySQL, Administrator)
+
+2. Overall Description
+Product Perspective
+- Desktop application
+- Offline
+- Standalone
+
+Product Functions
+- High-level features.
+
+User Classes
+- Administrator
+- Event Coordinator
+- Reception Staff
+
+Operating Environment
+- Windows
+- Python
+- MySQL
+
+Constraints
+- Offline only
+- Desktop only
+
+3. Functional Requirements
+- feature
+
+4. Non-functional Requirements
+
+Examples
+- Performance
+- Security
+- Password authentication
+- Reliability
+- Usability
+- Maintainability
+- Portability
+- Backup
+
+5. System Architecture
+- Architecture diagram
+
+6. Database Design
+- ER Diagram
+- Entity descriptions
+- Tables
+- Relationships
+- Primary Keys
+- Foreign Keys
+
+7. UML Models
+- Use Case Diagram
+- Class Diagram
+
+8. User Interface Design
+- Wireframes
+- Dashboard
+- Reports
+- Settings
+
+9. Validation Rules
+
+10. Security Requirements
+- Authentication
+- Authorization
+- Input validation
+- Database protection
+
+Software Requirements Specification (20–40 pages) – serves as the technical blueprint, documenting detailed functional and non-functional requirements, system models (UML and ERD), interface designs, database schema, validation rules, security, and testing requirements before implementation begins.
